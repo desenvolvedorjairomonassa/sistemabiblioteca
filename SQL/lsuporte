@@ -1,0 +1,16 @@
+INSERT INTO lsuporte (suporte,idempresa,ativo,idsuporte) VALUES ('Anuário',1,1,15) 
+GO
+INSERT INTO lsuporte (suporte,idempresa,ativo,idsuporte) VALUES ('Ata',1,1,16) 
+GO
+INSERT INTO lsuporte (suporte,idempresa,ativo,idsuporte) VALUES ('Jornal',1,1,17) 
+GO
+INSERT INTO lsuporte (suporte,idempresa,ativo,idsuporte) VALUES ('Memórias de sociedade',1,1,18) 
+GO
+INSERT INTO lsuporte (suporte,idempresa,ativo,idsuporte) VALUES ('Publicação anual',1,1,19) 
+GO
+INSERT INTO lsuporte (suporte,idempresa,ativo,idsuporte) VALUES ('Relatório',1,1,20) 
+GO
+INSERT INTO lsuporte (suporte,idempresa,ativo,idsuporte) VALUES ('Revista',1,1,21) 
+GO
+INSERT INTO lsuporte (suporte,idempresa,ativo,idsuporte) VALUES ('Série monográfica numerada',1,1,22) 
+GO

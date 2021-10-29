@@ -1,0 +1,11 @@
+INSERT INTO LDPeriod VALUES ('Diário') GO
+INSERT INTO LDPeriod VALUES ('Semanal') GO
+INSERT INTO LDPeriod VALUES ('Quinzenal') GO
+INSERT INTO LDPeriod VALUES ('Bimensal') GO
+INSERT INTO LDPeriod VALUES ('Mensal') GO
+INSERT INTO LDPeriod VALUES ('Bimestral') GO
+INSERT INTO LDPeriod VALUES ('Trimestral') GO
+INSERT INTO LDPeriod VALUES ('Quadrimestral') GO
+INSERT INTO LDPeriod VALUES ('Semestral') GO
+INSERT INTO LDPeriod VALUES ('Anual') GO
+INSERT INTO LDPeriod VALUES ('Irregular') GO
